@@ -1,0 +1,4 @@
+client_get Grammar.png 127.0.0.1
+client_get test2.txt 127.0.0.1
+client_get gamd.txt 127.0.0.1
+client_post test1.txt 127.0.0.1
